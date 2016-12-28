@@ -24,7 +24,7 @@ aside li a {
 
 main {
 }
-iframe {
+iframe, .iframe {
   width: 100%;
   min-height: 80vh;
 }
